@@ -1,7 +1,7 @@
 package static
 
 import (
-	"github.com/uihcloudpoc/dynamiclistener/factory"
+	"github.com/uihcloudpoc/poc_dynamiclistener/factory"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

@@ -15,7 +15,7 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/uihcloudpoc/dynamiclistener/cert"
+	"github.com/uihcloudpoc/poc_dynamiclistener/cert"
 	v1 "k8s.io/api/core/v1"
 )
 

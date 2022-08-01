@@ -12,11 +12,10 @@ import (
 
 	v1 "github.com/rancher/wrangler/pkg/generated/controllers/core/v1"
 	"github.com/sirupsen/logrus"
-	"github.com/uihcloudpoc/dynamiclistener"
-	"github.com/uihcloudpoc/dynamiclistener/factory"
-	"github.com/uihcloudpoc/dynamiclistener/storage/file"
-	"github.com/uihcloudpoc/dynamiclistener/storage/kubernetes"
-	"github.com/uihcloudpoc/dynamiclistener/storage/memory"
+	"github.com/uihcloudpoc/poc_dynamiclistener/factory"
+	"github.com/uihcloudpoc/poc_dynamiclistener/storage/file"
+	"github.com/uihcloudpoc/poc_dynamiclistener/storage/kubernetes"
+	"github.com/uihcloudpoc/poc_dynamiclistener/storage/memory"
 	"golang.org/x/crypto/acme/autocert"
 )
 
