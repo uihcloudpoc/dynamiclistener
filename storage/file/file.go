@@ -2,7 +2,7 @@ package file
 
 import (
 	"encoding/json"
-	"github.com/uihpoc/dynamiclistener"
+	"github.com/uihcloudpoc/dynamiclistener"
 	"k8s.io/api/core/v1"
 	"os"
 )

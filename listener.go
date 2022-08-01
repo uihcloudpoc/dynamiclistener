@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/sirupsen/logrus"
-	"github.com/uihpoc/dynamiclistener/cert"
-	"github.com/uihpoc/dynamiclistener/factory"
+	"github.com/uihcloudpoc/dynamiclistener/cert"
+	"github.com/uihcloudpoc/dynamiclistener/factory"
 	v1 "k8s.io/api/core/v1"
 )
 

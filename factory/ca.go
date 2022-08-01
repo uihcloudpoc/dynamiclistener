@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/uihpoc/dynamiclistener/cert"
+	"github.com/uihcloudpoc/dynamiclistener/cert"
 )
 
 func GenCA() (*x509.Certificate, crypto.Signer, error) {

@@ -1,4 +1,4 @@
-module github.com/uihpoc/dynamiclistener
+module github.com/uihcloudpoc/dynamiclistener
 
 go 1.12
 
