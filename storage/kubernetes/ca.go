@@ -4,7 +4,7 @@ import (
 	"crypto"
 	"crypto/x509"
 
-	v1controller "github.com/rancher/wrangler/pkg/generated/controllers/core/v1"
+	v1controller "github.com/rancher/wrangler-api/pkg/generated/controllers/core/v1"
 	"github.com/uihcloudpoc/poc_dynamiclistener/factory"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/errors"

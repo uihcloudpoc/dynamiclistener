@@ -10,7 +10,7 @@ import (
 	"net"
 	"net/http"
 
-	v1 "github.com/rancher/wrangler/pkg/generated/controllers/core/v1"
+	v1 "github.com/rancher/wrangler-api/pkg/generated/controllers/core/v1"
 	"github.com/sirupsen/logrus"
 	"github.com/uihcloudpoc/poc_dynamiclistener/factory"
 	"github.com/uihcloudpoc/poc_dynamiclistener/storage/file"
